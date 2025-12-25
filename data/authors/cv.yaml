@@ -1,0 +1,51 @@
+education:
+  - degree: "II Level Master"
+    institution: "Scuola Superiore Universitaria di Toppo Wassermann"
+    start: "2019-10-01"
+    end: "2025-03-31"
+  - degree: "MSc in Mathematics (110/110 cum laude)"
+    institution: "University of Udine"
+    start: "2022-10-01"
+    end: "2024-10-31"
+  - degree: "BSc in Mathematics"
+    institution: "University of Udine"
+    start: "2019-10-01"
+    end: "2022-10-31"
+experience:
+  - role: "PhD Student in Applied Mathematics"
+    org: "École Doctorale Jacques Hadamard — Laboratoire des Signaux et Systèmes"
+    start: "2025-10-01"
+    summary: |
+      PhD thesis on partially observable stochastic control.
+
+      **Advisors:** Riccardo Bonalli, Laurent Pfeiffer.
+
+  - role: "Research Assistant"
+    org: "FAU Erlangen–Nürnberg — Chair for Dynamics, Control, Machine Learning and Numerics (Prof. Enrique Zuazua)"
+    start: "2024-11-01"
+    end: "2025-08-31"
+    summary: |
+      Worked on optimal control of coagulation–fragmentation equations.
+
+skills:
+  - name: Programming Languages
+    items:
+      - label: Python
+        level: 4
+      - label: JAX
+        level: 3
+      - label: LaTeX
+        level: 5
+      - label: go
+        level: 2
+
+languages:
+  - name: Italian
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
+  - name: German
+    level: 1
+    label: Basic

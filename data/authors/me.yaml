@@ -1,0 +1,45 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Enrico Sartor
+  given: Enrico
+  family: Sartor
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+
+status:
+  icon: ''
+
+role: PhD Student in Applied Mathematics
+
+bio: |
+  I’m fascinated by dynamical systems and by how mathematics lets us predict, shape, and steer their behavior. 
+  I study the analysis and control of dynamical systems, with broad interests in optimal control for stochastic systems and partial differential equations. 
+  My current focus is on partially observable problems where observation times are decision variables, and on understanding how optimal information acquisition interacts with learning. I’m also interested in optimal transport and Wasserstein geometry.
+
+
+affiliations:
+  - name: École Doctorale Jacques Hadamard
+    url: "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
+  - name: Laboratoire des Signaux et Systèmes (L2S)
+    url: "https://l2s.centralesupelec.fr/en/"
+
+links:
+  - icon: at-symbol
+    url: "mailto:enrico.sartor@centralesupelec.fr"
+    label: E-mail
+  - icon: brands/github
+    url: "https://github.com/enricosartor"
+    label: GitHub
+
+# interests:
+#   - Optimal Control
+#   - Partially Observable Systems
+#   - Partial Differential Equations
+#   - Optimal Transport 
+#   - Wasserstein Geometry
+#   - Mathematical Foundations of Machine Learnings
+#   - Reinforcement Learning

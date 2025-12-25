@@ -1,0 +1,24 @@
+/* Remove Tailwind Typography reading width */
+.prose, .max-w-prose {
+  max-width: 95ch !important;
+}
+
+/* Widen overall page container on desktop */
+@media (min-width: 1024px) {
+  .container {
+    max-width: 900px !important; /* try 1200px if you want */
+  }
+}
+
+/* Tighten vertical padding for the first (hero) block */
+.hero-tight {
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+}
+
+/* If the theme adds extra margins inside the block, tighten them too */
+.hero-tight section,
+.hero-tight .section {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
