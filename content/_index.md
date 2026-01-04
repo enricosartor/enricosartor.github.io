@@ -47,13 +47,13 @@ sections:
       title: 'About Me'
       subtitle: ''
       text: |-
-        I am a PhD student in Applied Mathematics at the École Doctorale Jacques Hadamard (EDMH), hosted at the Laboratoire des Signaux et Systèmes (L2S). My research focuses on partially observable stochastic control. More broadly, I am interested in optimal control for PDEs and SDEs, and in its connections with optimal transport and Wasserstein geometry (e.g., mean-field optimal control). I am also interested in the mathematical foundations of machine learning, especially neural networks and reinforcement learning.
+        I am Enrico Sartor, a PhD student in Applied Mathematics at the École Doctorale Jacques Hadamard (EDMH), hosted at the Laboratoire des Signaux et Systèmes (L2S). My research focuses on partially observable stochastic control. More broadly, I am interested in optimal control for PDEs and SDEs, and in its connections with optimal transport and Wasserstein geometry (e.g., mean-field optimal control). I am also interested in the mathematical foundations of machine learning, especially neural networks and reinforcement learning.
 
         Before starting my PhD, from November 2024 to August 2025, I worked as a research assistant under the supervision of Prof. Enrique Zuazua at the Chair for Dynamics, Control, Machine Learning and Numerics at Friedrich-Alexander-Universität Erlangen–Nürnberg, on optimal control of coagulation–fragmentation equations.
 
         I obtained my Master’s degree in Mathematics from the University of Udine in October 2024 (110/110 cum laude). During my Master’s, I spent six months as a visiting student at ETH Zürich in the research group of Prof. Florian Dörfler, working on my thesis “A Pontryagin minimum principle for sparse optimal control in the Wasserstein space”. I received my Bachelor’s degree in 2022 from the University of Udine, with a thesis on the improbability of collisions in the $N$-body problem.
 
-        In March 2025, I also completed the diploma of the Scuola Superiore Universitaria di Toppo Wassermann (110/110 cum laude), a merit-based honors program offering advanced coursework and research training alongside university studies.
+        In March 2025, I also completed the diploma of the Scuola Superiore Universitaria di Toppo Wassermann, a merit-based honors program offering advanced coursework and research training alongside university studies.
 
     design:
       columns: '1'
