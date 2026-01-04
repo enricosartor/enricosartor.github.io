@@ -4,6 +4,15 @@
 # Tutorial: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # ══════════════════════════════════════════════════════════════════════════════
+
+marketing:
+  seo:
+    site_type: Person
+    org_name: "Enrico Sartor"
+    description: "Enrico Sartor is a PhD student in Applied Mathematics at Université Paris-Saclay (EDMH/L2S), working on partially observable stochastic control, optimal transport, and Wasserstein geometry."
+    twitter: ""
+
+
 hugoblox:
   schema: "2.0"
 
@@ -32,7 +41,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
+    mode: 'dark'
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
@@ -89,9 +98,9 @@ hugoblox:
     # Menu alignment
     align: center                       # left | center | right
     # Feature toggles
-    search: true
-    theme_toggle: true
-    theme_picker: true
+    search: false
+    theme_toggle: false
+    theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:
@@ -117,7 +126,7 @@ hugoblox:
   content:
     # Math rendering
     math:
-      enable: false
+      enable: true
     # Table of contents
     toc:
       enable: true
