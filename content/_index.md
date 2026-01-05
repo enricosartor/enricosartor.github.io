@@ -47,7 +47,7 @@ sections:
       title: 'About Me'
       subtitle: ''
       text: |-
-        I am Enrico Sartor, a PhD student in Applied Mathematics at the École Doctorale Jacques Hadamard (EDMH), hosted at the Laboratoire des Signaux et Systèmes (L2S). My research focuses on partially observable stochastic control. More broadly, I am interested in optimal control for PDEs and SDEs, and in its connections with optimal transport and Wasserstein geometry (e.g., mean-field optimal control). I am also interested in the mathematical foundations of machine learning, especially neural networks and reinforcement learning.
+        I am Enrico Sartor, a PhD student in Applied Mathematics at the École Doctorale de Mathématique Hadamard (Paris-Saclay University), hosted at the Laboratoire des Signaux et Systèmes (L2S). My research focuses on partially observable stochastic control. More broadly, I am interested in optimal control for PDEs and SDEs, and in its connections with optimal transport and Wasserstein geometry (e.g., mean-field optimal control). I am also interested in the mathematical foundations of machine learning, especially neural networks and reinforcement learning.
 
         Before starting my PhD, from November 2024 to August 2025, I worked as a research assistant under the supervision of Prof. Enrique Zuazua at the Chair for Dynamics, Control, Machine Learning and Numerics at Friedrich-Alexander-Universität Erlangen–Nürnberg, on optimal control of coagulation–fragmentation equations.
 

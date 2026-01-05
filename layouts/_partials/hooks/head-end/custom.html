@@ -5,9 +5,24 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Enrico Sartor",
-  "alternateName": "Enrico Sartor",
-  "url": "https://enricosartor.github.io/"
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://enricosartor.github.io/#website",
+      "name": "Enrico Sartor",
+      "url": "https://enricosartor.github.io/"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://enricosartor.github.io/#person",
+      "name": "Enrico Sartor",
+      "url": "https://enricosartor.github.io/",
+      "sameAs": [
+        "https://github.com/<your-username>",
+        "https://www.linkedin.com/in/<your-linkedin>/"
+      ],
+      "jobTitle": "PhD Student in Applied Mathematics"
+    }
+  ]
 }
 </script>
