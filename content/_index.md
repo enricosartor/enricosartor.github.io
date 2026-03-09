@@ -59,14 +59,14 @@ sections:
       columns: '1'
       css_class: about-wide
 
-  - block: collection
+  - block: markdown
     id: news
     content:
-      title: "News"
-      count: 5
-      filters:
-        folders:
-          - news
-        kinds:
-          - page
+      title: News
+      subtitle: ''
+      text: |-
+        - Mar 2026: Preprint on sparse optimal control in Wasserstein space posted on arXiv.
+        - Nov 2025: Talk at PGMO Days 2025 on optimal control of the coagulation-fragmentation equation.
+    design:
+      columns: '1'
 ---

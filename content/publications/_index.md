@@ -5,15 +5,18 @@ type: landing
 sections:
   - block: collection
     content:
-      title: "Journal Articles"
+      title: "Journal Papers"
       count: 0
       filters:
         folders: [publication]
-        publication_type: "2"
-        kinds: [page]     # prevents section/_index.md from being listed (important)
+        publication_type: article-journal
+        kinds: [page]    
     design:
       view: citation
       columns: "1"
+      css_class: "pub-cards"
+      spacing:
+        padding: ["2px", "0", "2px", "0"]
 
   - block: collection
     content:
@@ -21,10 +24,13 @@ sections:
       count: 0
       filters:
         folders: [publication]
-        publication_type: "3"
+        publication_type: manuscript
         kinds: [page]
     design:
-      view: citation
+      view: card
       columns: "1"
+      css_class: "pub-cards"
+      spacing:
+        padding: ["2px", "0", "2px", "0"]
 ---
 

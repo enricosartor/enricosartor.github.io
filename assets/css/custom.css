@@ -22,3 +22,56 @@
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
+
+/* Remove the top image/placeholder area from publication cards */
+.pub-cards [role="article"] > div:first-child {
+  display: none !important;
+}
+
+/* Compact the text block */
+.pub-cards [role="article"] > div:last-child {
+  padding: 1rem 1.25rem !important;
+}
+
+.pub-cards [role="article"] > div:last-child > * + * {
+  margin-top: 0.5rem !important;
+}
+
+.pub-cards [role="article"] h2,
+.pub-cards [role="article"] h3 {
+  line-height: 1.15 !important;
+  margin-bottom: 0 !important;
+}
+
+.pub-cards [role="article"] p {
+  margin: 0 !important;
+}
+
+.pub-cards [role="article"] hr {
+  margin: 0.4rem 0 !important;
+}
+
+/* Prevent author names from being truncated */
+.pub-cards [role="article"] .truncate,
+.pub-cards [role="article"] [class*="truncate"],
+.pub-cards [role="article"] [class*="line-clamp"] {
+  overflow: visible !important;
+  text-overflow: unset !important;
+  white-space: normal !important;
+  -webkit-line-clamp: unset !important;
+  line-clamp: unset !important;
+}
+
+/* Hide the little avatar icon before the authors */
+.pub-cards [role="article"] svg,
+.pub-cards [role="article"] .avatar {
+  display: none !important;
+}
+/* Hide the bottom "Read more" row */
+.pub-cards [role="article"] > div:last-child > :last-child {
+  display: none !important;
+}
+
+.pub-cards [role="article"] p {
+  white-space: pre-line !important;
+}

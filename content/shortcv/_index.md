@@ -38,7 +38,7 @@ sections:
         </a>
 
         <p style="text-align:center; margin-top: 0.75rem;">
-          <small>Last update: 26.12.2025</small>
+          <small>Last update: 09.03.2026</small>
         </p>
     design:
       spacing:

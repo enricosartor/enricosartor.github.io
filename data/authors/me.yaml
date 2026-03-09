@@ -22,7 +22,7 @@ bio: |
 
 
 affiliations:
-  - name: École Doctorale Jacques Hadamard
+  - name: École Doctorale de Mathématiques Hadamard
     url: "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
   - name: Laboratoire des Signaux et Systèmes (L2S)
     url: "https://l2s.centralesupelec.fr/en/"
@@ -34,6 +34,9 @@ links:
   - icon: brands/github
     url: "https://github.com/enricosartor"
     label: GitHub
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=dk7_7NoAAAAJ
+    label: Google Scholar
 
 # interests:
 #   - Optimal Control
