@@ -65,8 +65,9 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        - Mar 2026: Preprint on sparse optimal control in Wasserstein space posted on arXiv.
-        - Nov 2025: Talk at PGMO Days 2025 on optimal control of the coagulation-fragmentation equation.
+        - April 2026: My preprint on the optimal control of the coagulation fragmentation equation is out!
+        - March 2026: Our ptreprint on sparse optimal control in Wasserstein space is on arXiv!
+        - November 2025: I gave a talk on optimal control of the coagulation-fragmentation equation at PGMO Days 2025.
     design:
       columns: '1'
 ---
