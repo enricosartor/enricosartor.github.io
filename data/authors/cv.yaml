@@ -36,8 +36,6 @@ skills:
         level: 3
       - label: LaTeX
         level: 5
-      - label: go
-        level: 2
 
 languages:
   - name: Italian
@@ -46,6 +44,9 @@ languages:
   - name: English
     level: 4
     label: Fluent
+  - name: French
+    level: 2
+    label: Basic
   - name: German
     level: 1
     label: Basic
